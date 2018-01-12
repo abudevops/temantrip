@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3af31955-0430-4817-8734-3621e16d6cc6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/font/fontello.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/font/fontello.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/font/fontello.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/font/icon_set_1.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/font/icon_set_1.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/font/icon_set_1.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/font/icon_set_2.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/font/icon_set_2.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/font/icon_set_2.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/icon_restaurant/fonts/Glyphter.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/icon_restaurant/fonts/Glyphter.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/icon_restaurant/fonts/Glyphter.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/images/closedhand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/images/openhand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/ElegantIcons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/ElegantIcons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/ElegantIcons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/Pe-icon-7-stroke.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/Pe-icon-7-stroke.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/Pe-icon-7-stroke.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/fontello.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/fontello.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/fontello.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/icon_set_1.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/icon_set_1.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/icon_set_1.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/aero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/aero@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/flat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/flat@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/orange@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/pink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/pink@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/red@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/yellow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/futurico/futurico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/futurico/futurico@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/line/line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/line/line@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/aero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/aero@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/minimal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/minimal@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/orange@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/pink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/pink@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/red@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/yellow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/polaris/polaris.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/polaris/polaris@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/aero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/aero@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/orange@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/pink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/pink@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/red@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/square@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/yellow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/admin_top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/apple-touch-icon-114x114-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/apple-touch-icon-144x144-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/apple-touch-icon-57x57-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/apple-touch-icon-72x72-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/arrow_down_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/avatar1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/avatar2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/avatar3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/badge_save.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/banner_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/banner_bg_colored.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/bg_blog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/bg_login.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/blog-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/blog-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/blog-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/bus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/cards.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/carousel/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/carousel/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/carousel/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/carousel/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/course_10_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/course_11_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/course_12_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/course_13_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/course_1_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/course_2_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/course_3_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/course_4_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/course_5_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/course_6_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/course_7_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/course_8_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/course_9_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/credit-card-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/down_arrow_select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/down_arrow_select_filters.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/eiffel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/features-intro-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/fix_ie_9_menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/footergallery1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/footergallery2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/footergallery3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/footergallery4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/footergallery5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/footergallery6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/footergallery7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/guide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/guide_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/guide_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/header_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/home_bg_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/home_bg_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/hotel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/hotel_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/hotel_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/hotel_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/hotel_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/hotel_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/hotel_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/hotels_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icon-select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icon_ccv.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/all_restaurants.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/all_tours.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/chinese.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/churches.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/eat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/fast_food.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/fish.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/historic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/international.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/japanese.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/museums.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/pizza_italian.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/sightseeing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/skyline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/icons_search/walking.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/lang_cn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/lang_cn_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/lang_de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/lang_de_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/lang_en.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/lang_en_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/lang_es.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/lang_es_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/lang_fr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/lang_fr_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/lang_jp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/lang_jp_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/laptop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_about_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_aqua.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_aqua_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_aqua_sticky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_aqua_sticky_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_green_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_green_sticky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_green_sticky_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_orange_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_orange_sticky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_orange_sticky_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_sticky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_sticky_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_sticky_colored.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/logo_sticky_colored_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/notify_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/notredame.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pattern_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pattern_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pattern_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pattern_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/payments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/payments_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/paypal.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/paypal_bn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/paypal_bt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/paypal_checkout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Airports.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Chinese.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Churches.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Contact.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Eat_drink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Fastfood.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Fish.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Historic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Hotels.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/International.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Japanese.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Museums.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Pizza.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Sightseeing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Single_hotel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Skyline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/pins/Walking.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/popup_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/post-thumb-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/post-thumb-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/post-thumb-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/products/image-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/products/image-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/products/image-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/products/image-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/products/image-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/products/image-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/products/thumb-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/products/thumb-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/products/thumb-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/restaurant_box_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/restaurant_box_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/restaurant_box_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/restaurant_box_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/restaurant_box_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/restaurant_box_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/restaurant_box_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/restaurant_box_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/restaurant_top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/restaurant_top_in.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/ribbon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/ribbon_popular.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/ribbon_top_rated.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/search-bt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/senna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/shadow-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/shadow_single.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/shadow_tour.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/single_hotel_bg_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/single_tour_bg_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/single_transfer_bg_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slide_hero.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slide_hero_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/1_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/1_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/1_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/1_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/2_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/2_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/2_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/2_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/3_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/3_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/3_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/3_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/4_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/4_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/4_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/4_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/5_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/5_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/5_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/5_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/6_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/6_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/6_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/6_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/7_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/7_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/7_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/7_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/8_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/8_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/8_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/8_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/9_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/9_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/9_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_restaurant/9_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/1_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/1_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/1_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/1_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/2_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/2_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/2_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/2_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/3_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/3_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/3_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/3_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/4_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/4_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/4_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/4_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/5_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/5_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/5_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/5_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/6_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/6_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/6_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/6_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/7_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/7_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/7_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/7_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/8_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/8_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/8_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/8_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/9_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/9_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/9_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slider_single_tour/9_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slides/slide_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slides/slide_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slides/slide_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slides/slide_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slides_bg/dummy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slides_bg/slide_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slides_bg/slide_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slides_bg/slide_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slides_bg/slide_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slides_bg/slide_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slides_bg/slide_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slides_bg/slide_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slides_bg/slide_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/slides_bg/slide_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/sprite-skin-flat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tag_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/testimonial_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/testimonial_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_cart_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_cart_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_cart_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_home_tabs_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_home_tabs_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_home_tabs_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_home_tabs_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_home_tabs_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_home_tabs_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_home_tabs_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_home_tabs_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_home_tabs_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_home_tabs_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_home_tabs_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_chinese_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_churches_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_fastfood_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_fastfood_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_fish_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_historic_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_historic_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_historic_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_hotel_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_hotel_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_hotel_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_hotel_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_hotel_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_hotel_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_international_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_international_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_international_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_museums_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_pizza_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_sightseeing_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_skyline_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/thumb_map_walking_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tour_box_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tour_box_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tour_box_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tour_box_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tour_box_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tour_box_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tour_box_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tour_box_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tour_box_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tour_box_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tour_box_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tour_box_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tour_box_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tour_box_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tourist_guide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/tourist_guide_pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/transfer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/transfer_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/transfer_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/transfer_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/transfer_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/transfer_top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/versailles.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/css/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlessdark/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlessdark/nothumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlessdark/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlessdark/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlessdark3d/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlessdark3d/nothumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlessdark3d/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlessdark3d/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlesslight/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlesslight/nothumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlesslight/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlesslight/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlesslight3d/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlesslight3d/nothumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlesslight3d/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlesslight3d/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/carousel/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/carousel/nothumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/carousel/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/darkskin/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/darkskin/nothumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/darkskin/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/defaultskin/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/defaultskin/nothumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/defaultskin/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/fullwidth/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/fullwidth/nothumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/fullwidth/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/fullwidthdark/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/fullwidthdark/nothumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/fullwidthdark/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/glass/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/glass/nothumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/glass/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/glass/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/lightskin/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/lightskin/nothumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/lightskin/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/minimal/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/minimal/nothumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/minimal/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/noskin/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/noskin/nothumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/noskin/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/v5/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/v5/nothumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/v5/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/bg_footer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/blog_post.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/blog_post_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/fb_bt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/google_pl_bt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/green_line.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/hotel_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/hotel_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/hotel_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/hotel_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/hotel_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/icon_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/icon_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/icon_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/icon_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/img_large_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/img_large_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/logo_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/main_banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/tour_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/tour_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/tour_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/img/twitter_bt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_bigbold_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_iceberg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_newspaper_bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_newspaper_bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_newspaper_bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_notgeneric_bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_notgeneric_bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_notgeneric_bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_notgeneric_bg5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_travel1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_travel2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_travel3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_travel4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_vimeobg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/100x50_youtubebg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/120x120_art3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/120x120_art4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/120x120_art5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/120x120_art7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/120x120_art8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/120x120_sunshinecover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/art3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/art4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/art5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/art7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/art8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/bigbold_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/bluebar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/blurflake1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/blurflake2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/blurflake3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/blurflake4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/dummy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/iceberg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/iceberg.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/newspaper_bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/newspaper_bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/newspaper_bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/notgeneric_bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/notgeneric_bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/notgeneric_bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/notgeneric_bg5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/transparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/travel1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/travel2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/travel3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/travel4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/vimeobg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/assets/youtubebg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/css/closedhand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/css/openhand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/revicons/revicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/revicons/revicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/revicons/revicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/arrow_large_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/arrow_large_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/arrow_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/arrow_left2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/arrow_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/arrow_right2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/arrowleft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/arrowright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/arrows.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/black50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/boxed_bgtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/bullet_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/bullets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/bullets.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/bullets2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/coloredbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/grain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/gridtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/gridtile_3x3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/gridtile_3x3_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/gridtile_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/large_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/large_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/loader2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/navigdots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/navigdots_bgtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/shadow1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/shadow2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/shadow3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/small_arrows.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/small_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/small_left_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/small_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/small_right_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/timer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/timerdot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/transparent.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/assets/white50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/font/revicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/font/revicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/font/revicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/fontello/font/fontello.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/fontello/font/fontello.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/fontello/font/fontello.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/img/apple-touch-icon-114x114-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/img/apple-touch-icon-144x144-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/img/apple-touch-icon-57x57-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/img/apple-touch-icon-72x72-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/img/logo_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/img/slide_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/img/slide_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/img/slide_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/video/paris.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/video/paris.ogv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/admin_top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/apple-touch-icon-114x114-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/apple-touch-icon-144x144-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/apple-touch-icon-57x57-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/apple-touch-icon-72x72-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/arrow_down_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/avatar1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/avatar2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/avatar3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/badge_save.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/banner_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/banner_bg_colored.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/bg_blog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/bg_login.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/blog-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/bus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/cards.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/carousel/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/carousel/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/carousel/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/carousel/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/course_10_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/course_11_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/course_12_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/course_13_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/course_1_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/course_2_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/course_3_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/course_4_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/course_5_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/course_6_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/course_7_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/course_8_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/course_9_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/credit-card-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/down_arrow_select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/down_arrow_select_filters.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/eiffel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/features-intro-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/fix_ie_9_menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/footergallery1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/footergallery2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/footergallery3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/footergallery4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/footergallery5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/footergallery6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/footergallery7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/guide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/guide_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/guide_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/header_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home_bg_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/home_bg_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/hotel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/hotel_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/hotel_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/hotel_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/hotel_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/hotel_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/hotel_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/hotels_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon-select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icon_ccv.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/all_restaurants.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/all_tours.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/chinese.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/churches.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/eat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/fast_food.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/fish.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/historic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/international.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/japanese.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/museums.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/pizza_italian.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/sightseeing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/skyline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/icons_search/walking.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/lang_cn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/lang_cn_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/lang_de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/lang_de_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/lang_en.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/lang_en_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/lang_es.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/lang_es_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/lang_fr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/lang_fr_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/lang_jp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/lang_jp_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/laptop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_about_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_aqua.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_aqua_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_aqua_sticky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_aqua_sticky_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_green_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_green_sticky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_green_sticky_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_orange_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_orange_sticky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_orange_sticky_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_sticky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_sticky_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_sticky_colored.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo_sticky_colored_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notify_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/notredame.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pattern_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pattern_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pattern_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pattern_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/payments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/payments_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/paypal.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/paypal_bn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/paypal_bt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/paypal_checkout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Airports.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Chinese.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Churches.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Contact.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Eat_drink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Fastfood.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Fish.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Historic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Hotels.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/International.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Japanese.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Museums.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Pizza.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Sightseeing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Single_hotel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Skyline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/pins/Walking.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/popup_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/post-thumb-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/post-thumb-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/post-thumb-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/products/image-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/products/image-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/products/image-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/products/image-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/products/image-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/products/image-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/products/thumb-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/products/thumb-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/products/thumb-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/restaurant_box_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/restaurant_box_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/restaurant_box_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/restaurant_box_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/restaurant_box_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/restaurant_box_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/restaurant_box_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/restaurant_box_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/restaurant_top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/restaurant_top_in.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/ribbon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/ribbon_popular.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/ribbon_top_rated.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/search-bt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/senna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/shadow-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/shadow_single.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/shadow_tour.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/single_hotel_bg_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/single_tour_bg_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/single_transfer_bg_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slide_hero.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slide_hero_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/1_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/1_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/1_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/1_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/2_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/2_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/2_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/2_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/3_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/3_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/3_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/3_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/4_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/4_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/4_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/4_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/5_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/5_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/5_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/5_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/6_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/6_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/6_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/6_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/7_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/7_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/7_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/7_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/8_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/8_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/8_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/8_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/9_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/9_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/9_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_restaurant/9_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/1_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/1_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/1_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/1_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/2_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/2_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/2_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/2_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/3_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/3_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/3_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/3_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/4_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/4_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/4_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/4_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/5_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/5_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/5_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/5_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/6_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/6_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/6_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/6_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/7_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/7_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/7_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/7_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/8_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/8_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/8_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/8_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/9_large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/9_medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/9_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slider_single_tour/9_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slides/slide_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slides/slide_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slides/slide_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slides/slide_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slides_bg/dummy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slides_bg/slide_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slides_bg/slide_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slides_bg/slide_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slides_bg/slide_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slides_bg/slide_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slides_bg/slide_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slides_bg/slide_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slides_bg/slide_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/slides_bg/slide_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/sprite-skin-flat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tag_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/testimonial_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/testimonial_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_cart_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_cart_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_cart_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_home_tabs_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_home_tabs_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_home_tabs_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_home_tabs_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_home_tabs_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_home_tabs_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_home_tabs_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_home_tabs_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_home_tabs_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_home_tabs_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_home_tabs_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_chinese_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_churches_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_fastfood_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_fastfood_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_fish_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_historic_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_historic_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_historic_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_hotel_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_hotel_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_hotel_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_hotel_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_hotel_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_hotel_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_international_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_international_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_international_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_museums_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_pizza_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_sightseeing_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_skyline_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/thumb_map_walking_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tour_box_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tour_box_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tour_box_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tour_box_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tour_box_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tour_box_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tour_box_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tour_box_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tour_box_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tour_box_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tour_box_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tour_box_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tour_box_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tour_box_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tourist_guide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/tourist_guide_pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/transfer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/transfer_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/transfer_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/transfer_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/transfer_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/transfer_top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/versailles.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery-2.2.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/blog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/color-aqua.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/color-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/color-orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/date_time_picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/extralayers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/finaltilesgallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/flavr.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/css/all-fontello.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/css/fontello-codes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/css/fontello.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/css/icon_set_1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/css/icon_set_2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/demo_icon_set_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/demo_icon_set_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/font/fontello.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/font/icon_set_1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/fontello/font/icon_set_2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/icon_restaurant/css/icon_restaurants.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/icon_restaurant/css/icon_restaurants.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/icon_restaurant/fonts/Glyphter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/ion.rangeSlider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/ion.rangeSlider.skinFlat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/jquery.cookiebar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/jquery.switch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/lightbox2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/morphext.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/css/icon_set_1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/css/icon_set_2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/css/icon_set_all.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/ElegantIcons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/Pe-icon-7-stroke.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/fontello.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/new_icons/font/icon_set_1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/pop_up.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/shop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/flat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/flat/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/futurico/futurico.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/line/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/line/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/line/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/line/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/line/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/line/line.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/line/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/line/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/line/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/line/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/line/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/minimal/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/polaris/polaris.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/square.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/skins/square/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/slider-pro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/slider-pro.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/tabs_home.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/timeline.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/weather.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/twitter_icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/bootstrap-notify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/bootstrap-notify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/bootstrap-timepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/cat_nav_mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/common_scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/common_scripts_min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/datepicker_advanced.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/flavr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/footer-reveal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/footer-reveal.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/html5shiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/icheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/icheck.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/infobox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/ion.rangeSlider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/ion.rangeSlider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery-2.2.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery.bxslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery.cookiebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery.ddslick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery.finaltilesgallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery.magnific-popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery.magnific-popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery.selectbox-0.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery.simpleWeather.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery.simpleWeather.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery.sliderPro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery.sliderPro.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery.tweet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery.tweet.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/jquery.validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/lightbox2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/map_contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/map_full_page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/map_home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/map_hotels.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/map_listing_hotels.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/map_listing_restaurants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/map_listing_tours.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/map_restaurants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/map_single_restaurant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/map_transfer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/morphext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/morphext.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/notify_func.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/parallax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/parallax.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/pop_up.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/pop_up.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/pop_up_func.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/pw_strenght.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/retina-replace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/retina-replace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/revolution_func.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/theia-sticky-sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/video_header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/wow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/wow.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/css/layerslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/js/greensock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/js/layerslider.kreaturamedia.jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/js/layerslider.transitions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlessdark/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlessdark3d/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlesslight/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/borderlesslight3d/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/carousel/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/darkskin/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/defaultskin/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/fullwidth/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/fullwidthdark/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/glass/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/lightskin/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/minimal/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/noskin/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/layerslider/skins/v5/skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/newsletter_template/newsletter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/css/settings.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/pe-icon-7-stroke/css/helper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/fonts/revicons/revicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/js/extensions/revolution.extension.actions.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/js/extensions/revolution.extension.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/js/extensions/revolution.extension.kenburn.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/js/extensions/revolution.extension.layeranimation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/js/extensions/revolution.extension.migration.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/js/extensions/revolution.extension.navigation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/js/extensions/revolution.extension.parallax.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/js/extensions/revolution.extension.slideanims.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/js/extensions/revolution.extension.video.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/js/jquery.revslider-youtube-hero.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/js/jquery.revslider.embed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/js/jquery.themepunch.enablelog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/js/jquery.themepunch.revolution.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rev-slider-files/js/jquery.themepunch.tools.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/css/settings-ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/css/settings.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/font/revicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/js/jquery.themepunch.enablelog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/js/jquery.themepunch.revolution.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/js/jquery.themepunch.revolution.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rs-plugin/js/jquery.themepunch.tools.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/assets/newsletter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/assets/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/fontello/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/fontello/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/fontello/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/fontello/css/animation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/fontello/css/fontello-codes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/fontello/css/fontello-embedded.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/fontello/css/fontello-ie7-codes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/fontello/css/fontello-ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/fontello/css/fontello.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/fontello/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/fontello/font/fontello.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/js/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/js/jquery-1.11.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/js/jquery-2.2.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/js/jquery.animate-enhanced.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/js/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/js/jquery.easing.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/js/jquery.placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/js/jquery.placeholder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/js/jquery.superslides.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/js/jquery.superslides.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/site_launch/js/retina.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/twitter/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/twitter/lib/tmhOAuth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/twitter/lib/tmhUtilities.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/twitter_icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.bundle/" />
+    <ignored path="$PROJECT_DIR$/components/" />
+    <ignored path="$PROJECT_DIR$/public/system/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/vendor/bundle/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+              <folding>
+                <element signature="e#29526#29531#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="RailsProjectView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temantripcom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temantripcom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temantripcom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temantripcom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temantripcom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temantripcom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temantripcom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temantripcom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temantripcom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temantripcom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/javascripts" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Rails.Development: temantripcom">
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test: temantripcom" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="temantripcom" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="spec: temantripcom" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="temantripcom" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Production: temantripcom" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="temantripcom" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Development: temantripcom" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="temantripcom" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Rake.test: temantripcom" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec: temantripcom" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: temantripcom" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: temantripcom" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3af31955-0430-4817-8734-3621e16d6cc6" name="Default" comment="" />
+      <created>1515778244955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515778244955</updated>
+      <workItem from="1515778250618" duration="2033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2033000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="840" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/assets/css/skins/flat/red.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/jquery-2.2.4.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding>
+            <element signature="e#29526#29531#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
