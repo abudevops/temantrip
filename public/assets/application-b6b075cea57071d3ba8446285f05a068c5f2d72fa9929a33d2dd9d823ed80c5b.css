@@ -1,0 +1,30 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+
+
+ */
+
+
+@import url("css/bootstrap.min.css"); 						        							/* Main Bootstrap */
+@import url("css/animate.min.css");																/* Animate On Page Scroll */
+@import url("css/style.css");																	/* Main theme styles */
+@import url("css/menu.css");																	/* Menu styles */
+@import url("css/responsive.css");																/* Responsive */
+@import url("css/fontello/css/all-fontello.min.css");											/* Icon pack */
+@import url("css/icon_restaurant/css/icon_restaurants.min.css");								/* Icon pack */
+@import url("css/new_icons/css/icon_set_all.min.css");									        /* Icon pack */
+@import url("css/magnific-popup.css");															/* Lightbox & dialog script */
+@import url("css/pop_up.css");																	/* Popup Advertising */
+@import url("css/custom.css");																	/* We suggest to place here your css in order to simply update the item */

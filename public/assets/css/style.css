@@ -377,7 +377,7 @@ header.sticky #logo .logo_sticky{ display:block; }
 	width:160px;
 	height:34px;
 	display:block;
-	background-image:url(../img/logo.png);
+	background-image:url(../img/logo-putih.png);
 	background-repeat:no-repeat;
 	background-position:left top;
 	background-size: 160px 34px;
@@ -388,10 +388,10 @@ header.sticky #logo_home h1{
 	padding:0;
 }
 header.sticky #logo_home h1 a{
-	background-image:url(../img/logo_sticky.png);
+	background-image:url(../img/logo-hitam.png);
 }
 header#plain #logo_home h1 a{
-	background-image:url(../img/logo_sticky.png);
+	background-image:url(../img/logo-hitam.png);
 }
 header.sticky#colored #logo_home h1 a{
 	background-image:url(../img/logo_sticky_colored.png);
@@ -870,7 +870,7 @@ a#email_footer:before {
 #hero {
 	position: relative;
 	height: 600px;
-	background: #4d536d url(../img/slide_hero.jpg) no-repeat center center;
+	background: #4d536d url(../img/coverslide.jpg) no-repeat center center;
 	background-size: cover;
 	color: #fff;
 	width: 100%;
