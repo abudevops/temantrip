@@ -10,18 +10,16 @@
       <a class="cmn-toggle-switch cmn-toggle-switch__htx open_close" href="javascript:void(0);"><span>Menu mobile</span></a>
       <div class="main-menu">
         <div id="header_menu">
-          <img src="/img/logo_sticky.png" width="160" height="34" alt="Sabat Travel" data-retina="true">
+          <img src="/assets/img/logo_sticky.png" width="160" height="34" alt="Sabat Travel" data-retina="true">
         </div>
         <a href="#" class="open_close" id="close_in"><i class="icon_set_1_icon-77"></i></a>
         <ul>
-          <li>
-            <%= link_to_unless_current("Home", { action: "index" }) %>
-          </li>
+          <li><%= link_to('Home', controller: 'home',
+                          action: 'index' ) %></li>
           <li class="submenu">
             <a href="javascript:void(0);" class="show-submenu">Paket Umroh <i class="icon-down-open-mini"></i></a>
             <ul>
-              <li><%= link_to('Paket VIP', controller: 'umroh',
-                              action: 'list' ) %></li>
+              <li><a href="#">Umroh VIP</a></li>
               <li><a href="#">Umroh Plus Wisata</a></li>
               <li><a href="#">Umroh Reguler</a></li>
               <li><a href="#">Umroh Ekonomis</a></li>
