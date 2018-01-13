@@ -19,11 +19,16 @@
           <li class="submenu">
             <a href="javascript:void(0);" class="show-submenu">Paket Umroh <i class="icon-down-open-mini"></i></a>
             <ul>
-              <li><a href="#">Umroh VIP</a></li>
-              <li><a href="#">Umroh Plus Wisata</a></li>
-              <li><a href="#">Umroh Reguler</a></li>
-              <li><a href="#">Umroh Ekonomis</a></li>
-              <li><a href="#">Halal Tours</a></li>
+              <li><%= link_to('Paket VIP', controller: 'umroh',
+                              action: 'list' ) %></li>
+              <li><%= link_to('Umroh Plus Wisata', controller: 'umroh',
+                              action: 'list' ) %></li>
+              <li><%= link_to('Umroh Reguler', controller: 'umroh',
+                              action: 'list' ) %></li>
+              <li><%= link_to('Umroh Ekonomis', controller: 'umroh',
+                              action: 'list' ) %></li>
+              <li><%= link_to('Halal Tours', controller: 'umroh',
+                              action: 'list' ) %></li>
             </ul>
           </li>
           <li class="submenu">
